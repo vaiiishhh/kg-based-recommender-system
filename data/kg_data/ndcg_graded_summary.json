@@ -1,0 +1,15 @@
+{
+  "evaluation_type": "NDCG with graded relevance",
+  "num_test_users": 224,
+  "total_items_in_ground_truth": 471,
+  "avg_items_per_user": 2.1026785714285716,
+  "min_items_per_user": 2,
+  "max_items_per_user": 3,
+  "relevance_scale": {
+    "2.0": "5-star (highly relevant)",
+    "1.0": "4-star (relevant)",
+    "0.5": "3-star (somewhat relevant)",
+    "0.0": "1-2 star (not relevant)"
+  },
+  "notes": "Graded relevance allows NDCG to reward ranking of highly-relevant items higher"
+}

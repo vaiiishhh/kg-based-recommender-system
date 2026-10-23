@@ -1,0 +1,1802 @@
+[
+  {
+    "user": "A10U8DJAPJJI8I",
+    "item": "B00C2AS5C6",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4411321133375168,
+    "true_rating": 1.0
+  },
+  {
+    "user": "A12V4QGBVTH2BC",
+    "item": "B00JG02ZEY",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4564831405878067,
+    "true_rating": 1.0
+  },
+  {
+    "user": "A16I7TH03ZUMDG",
+    "item": "B00VIRG3GO",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4558034241199493,
+    "true_rating": 1.0
+  },
+  {
+    "user": "A17S3JYD5CJW2Z",
+    "item": "B00AVSSKLW",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.45,
+    "true_rating": 1.0
+  },
+  {
+    "user": "A18TZWC6E47R4P",
+    "item": "B00NR2VMNC",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4314895421266556,
+    "true_rating": 1.0
+  },
+  {
+    "user": "A19X0PSV6C7XMF",
+    "item": "B005H3I38Q",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4218994230031967,
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1E77E66RJ73ZW",
+    "item": "B00LS5NFQ2",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.5000000298023224,
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1GJS7K8QPS5JY",
+    "item": "B00CRFK24K",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4526128470897675,
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1JVEATNF4GP94",
+    "item": "B00PXUD932",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.461317554116249,
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1K3IGT162CRDE",
+    "item": "B00IRVQ0F8",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4556296914815903,
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1M9126YPQPS3L",
+    "item": "B0009PTBZ6",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4647493809461594,
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1O0JVHUJX4ZCH",
+    "item": "B001AZRHI2",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.449212595820427,
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1QF4Z4P6D3FO4",
+    "item": "B009AYVNMQ",
+    "prediction": 1,
+    "raw_llm_output": "1",
+    "num_paths": 5,
+    "ranking_score": 1.4557223916053772,
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1ZETCHKWICN6K",
+    "item": "B004N6259G",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.446992352604866,
+    "true_rating": 1.0
+  },
+  {
+    "user": "A27CUJPZ1SM6FY",
+    "item": "106171327X",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.464313268661499,
+    "true_rating": 1.0
+  },
+  {
+    "user": "A2BEHJMCLCXR10",
+    "item": "B009QQMEEY",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4500000298023223,
+    "true_rating": 1.0
+  },
+  {
+    "user": "A2BH9DHKBIBDX3",
+    "item": "B0062P7ISY",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4241809844970703,
+    "true_rating": 1.0
+  },
+  {
+    "user": "A2DFM26VLNVYNY",
+    "item": "B01D6JEMXC",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4333333631356555,
+    "true_rating": 1.0
+  },
+  {
+    "user": "A2ICY2Y1JNCXAM",
+    "item": "B00NI3CSIS",
+    "prediction": 1,
+    "raw_llm_output": "1",
+    "num_paths": 5,
+    "ranking_score": 1.448722466826439,
+    "true_rating": 1.0
+  },
+  {
+    "user": "A2Q3EQ7YPKQDLP",
+    "item": "B005KOZNBW",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.446986973285675,
+    "true_rating": 1.0
+  },
+  {
+    "user": "A2RUUTTFJQ7CBH",
+    "item": "B000KLZ7VG",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.452986717224121,
+    "true_rating": 1.0
+  },
+  {
+    "user": "A2V7083WZEZ97W",
+    "item": "B01ANMP6G2",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4480357617139816,
+    "true_rating": 1.0
+  },
+  {
+    "user": "A2WUYJJ7NPQ5H4",
+    "item": "B001C271MA",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4650704562664032,
+    "true_rating": 1.0
+  },
+  {
+    "user": "A2Z5C2MD0XL1QB",
+    "item": "B001N85YIG",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4419848322868347,
+    "true_rating": 1.0
+  },
+  {
+    "user": "A32IVE3U8N770",
+    "item": "B00KFAGD88",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.5,
+    "true_rating": 1.0
+  },
+  {
+    "user": "A34C1WGHIMOZTC",
+    "item": "B00DSGLM50",
+    "prediction": 1,
+    "raw_llm_output": "1",
+    "num_paths": 5,
+    "ranking_score": 1.4649630784988403,
+    "true_rating": 1.0
+  },
+  {
+    "user": "A377SC4U46KF0N",
+    "item": "B003ZJHA3S",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4682415425777435,
+    "true_rating": 1.0
+  },
+  {
+    "user": "A3AM3S229RHMYB",
+    "item": "B00UR321B6",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.449701502919197,
+    "true_rating": 1.0
+  },
+  {
+    "user": "A3IQNLC81PFXFC",
+    "item": "B006WWMZSK",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4518038034439087,
+    "true_rating": 1.0
+  },
+  {
+    "user": "A3JRDXYFICIUSZ",
+    "item": "B00066HP7Y",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4311366081237793,
+    "true_rating": 1.0
+  },
+  {
+    "user": "A3NNMTEEEFAEED",
+    "item": "B00H7Z7YMI",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4405191242694855,
+    "true_rating": 1.0
+  },
+  {
+    "user": "A3UPBXFYCMZ49V",
+    "item": "B00794RDVY",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4014756083488464,
+    "true_rating": 1.0
+  },
+  {
+    "user": "A3X0OABB0HCP2",
+    "item": "B00452V66G",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.449628621339798,
+    "true_rating": 1.0
+  },
+  {
+    "user": "A4931K2KQMG0Y",
+    "item": "B001EZYMF4",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4675869941711426,
+    "true_rating": 1.0
+  },
+  {
+    "user": "A70I06I4NXW4T",
+    "item": "B011CS01P2",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4606630504131317,
+    "true_rating": 1.0
+  },
+  {
+    "user": "ACZREPNVT28WO",
+    "item": "B005DKZTMG",
+    "prediction": 1,
+    "raw_llm_output": "1",
+    "num_paths": 5,
+    "ranking_score": 1.5,
+    "true_rating": 1.0
+  },
+  {
+    "user": "AHBJVK85QLGCI",
+    "item": "B000H9J3ZC",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4402275085449219,
+    "true_rating": 1.0
+  },
+  {
+    "user": "AIK16JZZ9J46I",
+    "item": "B00F3JI47Y",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4641122370958328,
+    "true_rating": 1.0
+  },
+  {
+    "user": "ALK45J9W5YD2Z",
+    "item": "B005WKIKA0",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.430897518992424,
+    "true_rating": 1.0
+  },
+  {
+    "user": "AUP8IUU5T95CQ",
+    "item": "B0192LPK5M",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4401286393404007,
+    "true_rating": 1.0
+  },
+  {
+    "user": "A13Z644W9QLX3P",
+    "item": "B001AZRHI2",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4500000298023223,
+    "true_rating": 2.0
+  },
+  {
+    "user": "A17Y465UXZOJE3",
+    "item": "B003VWY0VY",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4262745082378387,
+    "true_rating": 2.0
+  },
+  {
+    "user": "A1AFP7B0TATLSX",
+    "item": "B00FYWCL2E",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4287268817424774,
+    "true_rating": 2.0
+  },
+  {
+    "user": "A1BLKINCK03YL8",
+    "item": "B005UBNGY6",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4461898654699326,
+    "true_rating": 2.0
+  },
+  {
+    "user": "A1GALZCXD8FHOR",
+    "item": "B013UHK1M6",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4553445279598236,
+    "true_rating": 2.0
+  },
+  {
+    "user": "A1HATOY4GGINVH",
+    "item": "B00F5JV4NS",
+    "prediction": 1,
+    "raw_llm_output": "1",
+    "num_paths": 5,
+    "ranking_score": 1.4515101313591003,
+    "true_rating": 2.0
+  },
+  {
+    "user": "A1ILWPH1GHUXE2",
+    "item": "B00005QBU9",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4370703548192978,
+    "true_rating": 2.0
+  },
+  {
+    "user": "A1IU7S4HCK1XK0",
+    "item": "B00NEYHIHM",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4611887335777283,
+    "true_rating": 2.0
+  },
+  {
+    "user": "A1P8U3EM914I5G",
+    "item": "B00GBBSP8Q",
+    "prediction": 1,
+    "raw_llm_output": "1",
+    "num_paths": 5,
+    "ranking_score": 1.4497724771499634,
+    "true_rating": 2.0
+  },
+  {
+    "user": "A1TFDPQLXBAODD",
+    "item": "B008VQ8IKY",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4358993917703629,
+    "true_rating": 2.0
+  },
+  {
+    "user": "A1TS45JWJVOSSW",
+    "item": "B0097BEFDG",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4501173794269562,
+    "true_rating": 2.0
+  },
+  {
+    "user": "A1VX8I4BVGKGB9",
+    "item": "B009F1JL5A",
+    "prediction": 1,
+    "raw_llm_output": "1",
+    "num_paths": 5,
+    "ranking_score": 1.4591360539197922,
+    "true_rating": 2.0
+  },
+  {
+    "user": "A1XMRTK9WU30W8",
+    "item": "B00B17C5KO",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4596911817789078,
+    "true_rating": 2.0
+  },
+  {
+    "user": "A21EF0VWVUI71W",
+    "item": "B006W8U2MU",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.5,
+    "true_rating": 2.0
+  },
+  {
+    "user": "A23PMQTARXAPR2",
+    "item": "B01DJL4DY0",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.5,
+    "true_rating": 2.0
+  },
+  {
+    "user": "A25JUE9AFX7SUC",
+    "item": "B00029MTMQ",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4322676956653595,
+    "true_rating": 2.0
+  },
+  {
+    "user": "A2IIP6L4PRAXVN",
+    "item": "B016I3T3CI",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4472308307886124,
+    "true_rating": 2.0
+  },
+  {
+    "user": "A2KF07N5IY3N2S",
+    "item": "B005G8CEZU",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4391930997371674,
+    "true_rating": 2.0
+  },
+  {
+    "user": "A2M3KEMN3U4IBO",
+    "item": "B00IA9LPPM",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4200536757707596,
+    "true_rating": 2.0
+  },
+  {
+    "user": "A2NP9CGUSFP22E",
+    "item": "B003B2YJBA",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.446001186966896,
+    "true_rating": 2.0
+  },
+  {
+    "user": "A2WAV61ZBOLK2U",
+    "item": "B00I2ZBD1U",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4333333333333331,
+    "true_rating": 2.0
+  },
+  {
+    "user": "A2Y8JW5NSY95OL",
+    "item": "B008L14FWO",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4273235946893692,
+    "true_rating": 2.0
+  },
+  {
+    "user": "A33HIV8RXRDM88",
+    "item": "B009DJ1THW",
+    "prediction": 1,
+    "raw_llm_output": "1",
+    "num_paths": 5,
+    "ranking_score": 1.4615736305713654,
+    "true_rating": 2.0
+  },
+  {
+    "user": "A34QSBSSKMG251",
+    "item": "B00YD3DBOC",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4468951523303986,
+    "true_rating": 2.0
+  },
+  {
+    "user": "A34WRF3C70VMLL",
+    "item": "B0015M22C6",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.461406171321869,
+    "true_rating": 2.0
+  },
+  {
+    "user": "A35ZU3Y2BKPXEF",
+    "item": "B000NPKGGU",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4505680203437805,
+    "true_rating": 2.0
+  },
+  {
+    "user": "A37G90KBW3CZXT",
+    "item": "B016F3M7OM",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.5,
+    "true_rating": 2.0
+  },
+  {
+    "user": "A38NHXL5257E3B",
+    "item": "B00008KWWF",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.435384064912796,
+    "true_rating": 2.0
+  },
+  {
+    "user": "A3AOPVQ7EZHTWA",
+    "item": "B0002AHT0M",
+    "prediction": 1,
+    "raw_llm_output": "1",
+    "num_paths": 5,
+    "ranking_score": 1.440488263964653,
+    "true_rating": 2.0
+  },
+  {
+    "user": "A3CQU689KL6C9S",
+    "item": "B00LLEODCK",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4629700779914856,
+    "true_rating": 2.0
+  },
+  {
+    "user": "A3KEZLJ59C1JVH",
+    "item": "B0002ZAILY",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4721066653728485,
+    "true_rating": 2.0
+  },
+  {
+    "user": "A3L2HUMVCOXW3V",
+    "item": "B001FA1O18",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4513735622167587,
+    "true_rating": 2.0
+  },
+  {
+    "user": "A3L5TGXVJJQUMP",
+    "item": "B003LPTAYI",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4248633086681366,
+    "true_rating": 2.0
+  },
+  {
+    "user": "A3NTLK7KJS3LN6",
+    "item": "B00E8HGWIK",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.446080595254898,
+    "true_rating": 2.0
+  },
+  {
+    "user": "A5TFF8PLKRCOJ",
+    "item": "B013WODZH0",
+    "prediction": 1,
+    "raw_llm_output": "1",
+    "num_paths": 5,
+    "ranking_score": 1.449260726571083,
+    "true_rating": 2.0
+  },
+  {
+    "user": "A8I7ZSX0J2BUA",
+    "item": "B00FOTFB56",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.452498197555542,
+    "true_rating": 2.0
+  },
+  {
+    "user": "AEGO6A1AFDTAV",
+    "item": "B001AHALEC",
+    "prediction": 1,
+    "raw_llm_output": "1",
+    "num_paths": 5,
+    "ranking_score": 1.4643797129392624,
+    "true_rating": 2.0
+  },
+  {
+    "user": "AF7AQHLX1UV1Z",
+    "item": "B00DQEB1V4",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4403314292430878,
+    "true_rating": 2.0
+  },
+  {
+    "user": "AG8PYLBQ5QDWP",
+    "item": "B01EWUR5AQ",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4324857741594315,
+    "true_rating": 2.0
+  },
+  {
+    "user": "AI83XP5L7OMAU",
+    "item": "B00ELAM8NC",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4571699798107147,
+    "true_rating": 2.0
+  },
+  {
+    "user": "A1G0E1SQB3SGSZ",
+    "item": "B005DSPLC6",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4449662417173386,
+    "true_rating": 3.0
+  },
+  {
+    "user": "A1K3IGT162CRDE",
+    "item": "B009ZIILLI",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.5000000298023224,
+    "true_rating": 3.0
+  },
+  {
+    "user": "A1KT19TDP9VE63",
+    "item": "B0043WJRRS",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4488325417041779,
+    "true_rating": 3.0
+  },
+  {
+    "user": "A1L85ADJ0ZNTDI",
+    "item": "B00E5I7VJG",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4527696371078491,
+    "true_rating": 3.0
+  },
+  {
+    "user": "A1LYMYNURB9EWW",
+    "item": "B00KATWRIY",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4325445741415024,
+    "true_rating": 3.0
+  },
+  {
+    "user": "A1N5CYKYE5DTZE",
+    "item": "B00PDLRHFW",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4054125994443893,
+    "true_rating": 3.0
+  },
+  {
+    "user": "A1UMW910949THA",
+    "item": "B000UE8JWM",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4610671997070312,
+    "true_rating": 3.0
+  },
+  {
+    "user": "A1WKEBVFM8VB5Y",
+    "item": "B00JWJIEV2",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4632435590028763,
+    "true_rating": 3.0
+  },
+  {
+    "user": "A1XDKEJKRNN52P",
+    "item": "B002W342K2",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4610965847969055,
+    "true_rating": 3.0
+  },
+  {
+    "user": "A21911QJJHVGD2",
+    "item": "B003YH9EZ8",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4637992084026337,
+    "true_rating": 3.0
+  },
+  {
+    "user": "A22SJBPV400CIV",
+    "item": "B01DEMTOQ6",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4583185464143753,
+    "true_rating": 3.0
+  },
+  {
+    "user": "A28I98PKHZZKVB",
+    "item": "B016X1N5JC",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4511497616767883,
+    "true_rating": 3.0
+  },
+  {
+    "user": "A294868J1UQS5W",
+    "item": "B00N38TQJC",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.5,
+    "true_rating": 3.0
+  },
+  {
+    "user": "A2F3LMLXNF6T9",
+    "item": "B01CI5LLUC",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4443686455488205,
+    "true_rating": 3.0
+  },
+  {
+    "user": "A2IQPYLBDJLDY2",
+    "item": "B00IYJCING",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4554429352283478,
+    "true_rating": 3.0
+  },
+  {
+    "user": "A2LIGTSDHJY7U6",
+    "item": "B00IEZGWI2",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.433227077126503,
+    "true_rating": 3.0
+  },
+  {
+    "user": "A2LNLYZ40SNAUV",
+    "item": "B001B077PO",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4426704794168472,
+    "true_rating": 3.0
+  },
+  {
+    "user": "A2LQN25HW5IGSB",
+    "item": "B0033WSDYM",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.456381767988205,
+    "true_rating": 3.0
+  },
+  {
+    "user": "A2P10J7VOPHFMA",
+    "item": "B00HMCFPLI",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4390526860952377,
+    "true_rating": 3.0
+  },
+  {
+    "user": "A2UABHP8Y4OYM",
+    "item": "B009NC4TGC",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4491042792797089,
+    "true_rating": 3.0
+  },
+  {
+    "user": "A2V3N8T86X8J0B",
+    "item": "B00FYWCL2E",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4399260580539703,
+    "true_rating": 3.0
+  },
+  {
+    "user": "A2VI45SXKJHPZU",
+    "item": "B00WLWHLWK",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4523666203022003,
+    "true_rating": 3.0
+  },
+  {
+    "user": "A2WB4OWBUH2VQX",
+    "item": "B006BUN6ZE",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4550158828496933,
+    "true_rating": 3.0
+  },
+  {
+    "user": "A2WHHLDZCT6IEC",
+    "item": "B00HVLDRAQ",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.450364589691162,
+    "true_rating": 3.0
+  },
+  {
+    "user": "A316RN8NDLQ2UZ",
+    "item": "B00GNSJU90",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.44489386677742,
+    "true_rating": 3.0
+  },
+  {
+    "user": "A35IX2GE0VC0JP",
+    "item": "B00Q9CQ7OQ",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4448944628238678,
+    "true_rating": 3.0
+  },
+  {
+    "user": "A37H473BZHX9P0",
+    "item": "B0000ACCJA",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4431809931993484,
+    "true_rating": 3.0
+  },
+  {
+    "user": "A3GPR4SKRP0QNR",
+    "item": "B00009KLAE",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.5,
+    "true_rating": 3.0
+  },
+  {
+    "user": "A3HU8TU3T5LNRV",
+    "item": "B000V0G2BU",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4632496982812881,
+    "true_rating": 3.0
+  },
+  {
+    "user": "A3J5UTJJDF0QHM",
+    "item": "B00STP86CW",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.436146765947342,
+    "true_rating": 3.0
+  },
+  {
+    "user": "A3JQ0OD8ZI4ET5",
+    "item": "B007YX9OGW",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4446094185113907,
+    "true_rating": 3.0
+  },
+  {
+    "user": "A3N0KNA51YEBA7",
+    "item": "B00B9DQ2QI",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4416524767875671,
+    "true_rating": 3.0
+  },
+  {
+    "user": "A3N6L7HBSPZ1JL",
+    "item": "B00NIYJL64",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.447423905134201,
+    "true_rating": 3.0
+  },
+  {
+    "user": "A3NW3R4S2VT3WK",
+    "item": "B000BTL0OA",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4324672371149063,
+    "true_rating": 3.0
+  },
+  {
+    "user": "A3P1508PZ0UADD",
+    "item": "B00AU0HMGA",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4594565629959106,
+    "true_rating": 3.0
+  },
+  {
+    "user": "A3QU89RBYRMR67",
+    "item": "B00J21DFGE",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4567160904407501,
+    "true_rating": 3.0
+  },
+  {
+    "user": "A3T7V207KRDE2O",
+    "item": "B00007IFED",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.451381266117096,
+    "true_rating": 3.0
+  },
+  {
+    "user": "A3TBMGNSEQBWIL",
+    "item": "B00AB1ZB16",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4485556185245514,
+    "true_rating": 3.0
+  },
+  {
+    "user": "A3UR2N0ATGBCU8",
+    "item": "B019954Y2Q",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4715755432844162,
+    "true_rating": 3.0
+  },
+  {
+    "user": "APW3NEP6HJBFD",
+    "item": "B00KFAGD88",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.5,
+    "true_rating": 3.0
+  },
+  {
+    "user": "A1889S56VFLVMZ",
+    "item": "B00MJEYM5O",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4237318485975266,
+    "true_rating": 4.0
+  },
+  {
+    "user": "A1BQ0GQO5VTP3D",
+    "item": "B00004ZCJJ",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.43046472966671,
+    "true_rating": 4.0
+  },
+  {
+    "user": "A1CKZC8RUBGK27",
+    "item": "B00004Z5CP",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4665608406066895,
+    "true_rating": 4.0
+  },
+  {
+    "user": "A1F0ITW7KPUKQI",
+    "item": "B00K8WCG5M",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4441747963428497,
+    "true_rating": 4.0
+  },
+  {
+    "user": "A1I6VDJBZDT4W3",
+    "item": "B003ZBZ64Q",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4423274993896484,
+    "true_rating": 4.0
+  },
+  {
+    "user": "A1LYMYNURB9EWW",
+    "item": "B002FU5QMK",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4659868776798248,
+    "true_rating": 4.0
+  },
+  {
+    "user": "A1OPKNO7IXWV27",
+    "item": "B01EKKVO3W",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4215743094682693,
+    "true_rating": 4.0
+  },
+  {
+    "user": "A1SP0OX5KLGJQT",
+    "item": "B000NHZSHK",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4672805070877075,
+    "true_rating": 4.0
+  },
+  {
+    "user": "A1TS45JWJVOSSW",
+    "item": "B00ATM1NBO",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4631107598543167,
+    "true_rating": 4.0
+  },
+  {
+    "user": "A213J54E63SYOP",
+    "item": "B001EYHO9G",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4387937784194946,
+    "true_rating": 4.0
+  },
+  {
+    "user": "A24Z0GIS5OEV17",
+    "item": "B003Z6ZR5O",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.455382153391838,
+    "true_rating": 4.0
+  },
+  {
+    "user": "A2G82MAM4V06T8",
+    "item": "B007OY5V68",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4547942131757736,
+    "true_rating": 4.0
+  },
+  {
+    "user": "A2GCJMPR4E9X04",
+    "item": "B00KBZLOHC",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4458538889884949,
+    "true_rating": 4.0
+  },
+  {
+    "user": "A2Q0EYU1X6B08B",
+    "item": "B00R33ZYCG",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4539943039417267,
+    "true_rating": 4.0
+  },
+  {
+    "user": "A2UEB48LAWFUCW",
+    "item": "B00XJHST86",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4555299282073975,
+    "true_rating": 4.0
+  },
+  {
+    "user": "A31RZMVAFMLB8B",
+    "item": "B00007GQLU",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.5,
+    "true_rating": 4.0
+  },
+  {
+    "user": "A37KC1KU0JPI1K",
+    "item": "B004G7D0EG",
+    "prediction": 1,
+    "raw_llm_output": "1",
+    "num_paths": 5,
+    "ranking_score": 1.4496302604675293,
+    "true_rating": 4.0
+  },
+  {
+    "user": "A3CG6YLYZJXQG4",
+    "item": "B000MXWSWI",
+    "prediction": 1,
+    "raw_llm_output": "1",
+    "num_paths": 5,
+    "ranking_score": 1.4405638575553894,
+    "true_rating": 4.0
+  },
+  {
+    "user": "A3EDFOQUFSJW5D",
+    "item": "B005UF3G2Y",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.45,
+    "true_rating": 4.0
+  },
+  {
+    "user": "A3EHEIN314XOZW",
+    "item": "B00BO8O9XQ",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4307164400815964,
+    "true_rating": 4.0
+  },
+  {
+    "user": "A3ERTHGCYNZ1TA",
+    "item": "B015OW3GJK",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.5000000298023224,
+    "true_rating": 4.0
+  },
+  {
+    "user": "A3FQAQCOIBCEM2",
+    "item": "B00DUGZDJ4",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4623624086380005,
+    "true_rating": 4.0
+  },
+  {
+    "user": "A3OE5ZU05MEF1C",
+    "item": "B00Q30JU7U",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4464984983205795,
+    "true_rating": 4.0
+  },
+  {
+    "user": "A3OXHLG6DIBRW8",
+    "item": "B00DQZQCUI",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4355794191360474,
+    "true_rating": 4.0
+  },
+  {
+    "user": "A3OYO7B6SS7QLH",
+    "item": "B0002SKHIK",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.438999891281128,
+    "true_rating": 4.0
+  },
+  {
+    "user": "A3S0DBBR693O06",
+    "item": "B004U6NS5Y",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.457660362124443,
+    "true_rating": 4.0
+  },
+  {
+    "user": "A3T19G47W3C8YG",
+    "item": "B000ANCPNM",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4519397616386414,
+    "true_rating": 4.0
+  },
+  {
+    "user": "A3TYJTG8HXTWKY",
+    "item": "B001KC08AE",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4431000798940659,
+    "true_rating": 4.0
+  },
+  {
+    "user": "A8WAYVOKYBLO6",
+    "item": "B00BVUQZZ2",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4697483777999878,
+    "true_rating": 4.0
+  },
+  {
+    "user": "A9F10PFDPUMYY",
+    "item": "B00MLXA1J4",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4542314559221268,
+    "true_rating": 4.0
+  },
+  {
+    "user": "ABDEYYY9E0OXC",
+    "item": "B00834SJNA",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.5000000298023224,
+    "true_rating": 4.0
+  },
+  {
+    "user": "AG5J0DUZ3I9T",
+    "item": "B00CQ35GYE",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4556470066308975,
+    "true_rating": 4.0
+  },
+  {
+    "user": "AIFLY2HF8NS8U",
+    "item": "B01FVT0L8A",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4505303502082825,
+    "true_rating": 4.0
+  },
+  {
+    "user": "ANXVC9YPIJBL4",
+    "item": "B00004W3ZQ",
+    "prediction": 1,
+    "raw_llm_output": "1",
+    "num_paths": 5,
+    "ranking_score": 1.4333333333333331,
+    "true_rating": 4.0
+  },
+  {
+    "user": "AR74YY08IP2WE",
+    "item": "B00006HRKE",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4446414709091187,
+    "true_rating": 4.0
+  },
+  {
+    "user": "ATV193FAX1NBD",
+    "item": "B007IL6OR2",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4688070118427277,
+    "true_rating": 4.0
+  },
+  {
+    "user": "AVHZ3ZFGXHX7B",
+    "item": "B008PC1FYK",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.447114959359169,
+    "true_rating": 4.0
+  },
+  {
+    "user": "AVL03EBQWSS0L",
+    "item": "B00P8PK1WE",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4670997112989426,
+    "true_rating": 4.0
+  },
+  {
+    "user": "AW7CIDUOZLIVJ",
+    "item": "B0099XFRIY",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.437763661146164,
+    "true_rating": 4.0
+  },
+  {
+    "user": "AWG58803KO9D3",
+    "item": "B000KO0GY6",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4579754173755646,
+    "true_rating": 4.0
+  },
+  {
+    "user": "A14FTMH5H4NGIJ",
+    "item": "B018WBUJBS",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4622919708490372,
+    "true_rating": 5.0
+  },
+  {
+    "user": "A15XI2BEGGFEOW",
+    "item": "B00MUTWLW4",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.427721992135048,
+    "true_rating": 5.0
+  },
+  {
+    "user": "A162G0ZF9DI13N",
+    "item": "B00570DFYQ",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4559603929519653,
+    "true_rating": 5.0
+  },
+  {
+    "user": "A1I2U8NT5J6P1N",
+    "item": "B00BUSDVBQ",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4687544852495193,
+    "true_rating": 5.0
+  },
+  {
+    "user": "A1V2L5FVLY2TBX",
+    "item": "B00D2CRXKI",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4393749237060547,
+    "true_rating": 5.0
+  },
+  {
+    "user": "A1VQV94SL7Y1S0",
+    "item": "B00ZGUZJ32",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4378025382757187,
+    "true_rating": 5.0
+  },
+  {
+    "user": "A23Y31KV0RBKKN",
+    "item": "B00AKDW7B2",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4491086602210999,
+    "true_rating": 5.0
+  },
+  {
+    "user": "A287EEXKSNSY25",
+    "item": "B000FBK3QK",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4453044682741165,
+    "true_rating": 5.0
+  },
+  {
+    "user": "A2A3YKT15R5A02",
+    "item": "B00FB45SI4",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4562178254127502,
+    "true_rating": 5.0
+  },
+  {
+    "user": "A2CRXMI065N6WV",
+    "item": "B00E98O7GC",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.421964779496193,
+    "true_rating": 5.0
+  },
+  {
+    "user": "A2G0RTP38IM7RR",
+    "item": "B003NSBLPY",
+    "prediction": 1,
+    "raw_llm_output": "1",
+    "num_paths": 5,
+    "ranking_score": 1.45,
+    "true_rating": 5.0
+  },
+  {
+    "user": "A2HQC5U5RG2DW4",
+    "item": "B019U00D7K",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4618372321128845,
+    "true_rating": 5.0
+  },
+  {
+    "user": "A2LY4B3VOG7JQC",
+    "item": "B000HPV3RW",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.5,
+    "true_rating": 5.0
+  },
+  {
+    "user": "A2PEB5BBJT2TW9",
+    "item": "B00G05A2MU",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.448784589767456,
+    "true_rating": 5.0
+  },
+  {
+    "user": "A2PK64OVZA1U8Z",
+    "item": "B01D6JEMXC",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4427730739116669,
+    "true_rating": 5.0
+  },
+  {
+    "user": "A2XYDLQX06YSZI",
+    "item": "B006WAGG14",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4647711515426636,
+    "true_rating": 5.0
+  },
+  {
+    "user": "A34VOLUWUYPPAL",
+    "item": "B0026ZPFCK",
+    "prediction": 1,
+    "raw_llm_output": "1",
+    "num_paths": 5,
+    "ranking_score": 1.5,
+    "true_rating": 5.0
+  },
+  {
+    "user": "A35JWG51KXPRJZ",
+    "item": "B0009Y7AW8",
+    "prediction": 1,
+    "raw_llm_output": "1",
+    "num_paths": 5,
+    "ranking_score": 1.5,
+    "true_rating": 5.0
+  },
+  {
+    "user": "A3906K9VVHQKAC",
+    "item": "B018TX8IDA",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4488061964511871,
+    "true_rating": 5.0
+  },
+  {
+    "user": "A3BR71UJ21V9A4",
+    "item": "B007ZW2LY4",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4389789700508118,
+    "true_rating": 5.0
+  },
+  {
+    "user": "A3DXDS8NSGTJ3W",
+    "item": "B01GFMW91E",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.450330227613449,
+    "true_rating": 5.0
+  },
+  {
+    "user": "A3H1KOK51II1CD",
+    "item": "B000X3KOD2",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4561861753463745,
+    "true_rating": 5.0
+  },
+  {
+    "user": "A3O53ZUU0CIHPM",
+    "item": "B0057UAB2K",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4526669681072235,
+    "true_rating": 5.0
+  },
+  {
+    "user": "A3P4AVQ0AVHLBI",
+    "item": "B00KT7DOR0",
+    "prediction": 1,
+    "raw_llm_output": "1",
+    "num_paths": 5,
+    "ranking_score": 1.4439736157655716,
+    "true_rating": 5.0
+  },
+  {
+    "user": "A3QQD1V68HVUW9",
+    "item": "B005BCNAWW",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4437549412250519,
+    "true_rating": 5.0
+  },
+  {
+    "user": "A3RRX9PC1DSXIE",
+    "item": "B001F61R9Q",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4630500972270966,
+    "true_rating": 5.0
+  },
+  {
+    "user": "A3U5QCJ4QWC5GN",
+    "item": "B005FYNSUA",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4604896754026413,
+    "true_rating": 5.0
+  },
+  {
+    "user": "A3VAGBLM8OQP8A",
+    "item": "B00HT9MA1W",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4535125494003296,
+    "true_rating": 5.0
+  },
+  {
+    "user": "A62P2REQI15D0",
+    "item": "B00752VKBY",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4576682448387146,
+    "true_rating": 5.0
+  },
+  {
+    "user": "ABI57I3ALA0Y4",
+    "item": "B00NR2VMNC",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.450242057442665,
+    "true_rating": 5.0
+  },
+  {
+    "user": "AE2IDRV1J9E5I",
+    "item": "B00EZMZTBO",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4338394403457642,
+    "true_rating": 5.0
+  },
+  {
+    "user": "AGNQ8MX6V3L58",
+    "item": "B00SL2TQ2C",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.461317554116249,
+    "true_rating": 5.0
+  },
+  {
+    "user": "AGX4R68F1QS36",
+    "item": "B00007E7JU",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.5,
+    "true_rating": 5.0
+  },
+  {
+    "user": "AHJ4CB7OIWU4K",
+    "item": "B00BXVR9Z4",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.453535795211792,
+    "true_rating": 5.0
+  },
+  {
+    "user": "AJXMQ2116MJER",
+    "item": "B00CJGIWIA",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.460451677441597,
+    "true_rating": 5.0
+  },
+  {
+    "user": "AKU18EGFF6G02",
+    "item": "B004MF11MU",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.454127699136734,
+    "true_rating": 5.0
+  },
+  {
+    "user": "ARX0KOX5Q01BJ",
+    "item": "B01BCUM766",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4499499201774597,
+    "true_rating": 5.0
+  },
+  {
+    "user": "ASWTGWOE7YB9T",
+    "item": "B00NIYNU8E",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4568221718072891,
+    "true_rating": 5.0
+  },
+  {
+    "user": "AVJMM7OD4GQZN",
+    "item": "B00YOQYQWY",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.4416063129901886,
+    "true_rating": 5.0
+  },
+  {
+    "user": "AWVINCCRFU49L",
+    "item": "B009ZIILLI",
+    "prediction": 0,
+    "raw_llm_output": "0",
+    "num_paths": 5,
+    "ranking_score": 1.401522234082222,
+    "true_rating": 5.0
+  }
+]

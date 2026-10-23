@@ -1,0 +1,2217 @@
+[
+  {
+    "user": "AVJMM7OD4GQZN",
+    "item": "B00YOQYQWY",
+    "true_rating": 2.0
+  },
+  {
+    "user": "AVJMM7OD4GQZN",
+    "item": "B012V56FXC",
+    "true_rating": 0.5
+  },
+  {
+    "user": "ASWTGWOE7YB9T",
+    "item": "B00NIYNU8E",
+    "true_rating": 2.0
+  },
+  {
+    "user": "ASWTGWOE7YB9T",
+    "item": "B00DTZNCCQ",
+    "true_rating": 2.0
+  },
+  {
+    "user": "AFJGLOYI50XO9",
+    "item": "B00017LSPI",
+    "true_rating": 1.0
+  },
+  {
+    "user": "AFJGLOYI50XO9",
+    "item": "B00OZ5852Q",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A2VPSHOKIKSLJY",
+    "item": "B0000BZYPB",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A2VPSHOKIKSLJY",
+    "item": "B004QK7HI8",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A280YEMJ8980RK",
+    "item": "B001XURP86",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A280YEMJ8980RK",
+    "item": "B0071BIQZC",
+    "true_rating": 1.0
+  },
+  {
+    "user": "AGVWTYW0ULXHT",
+    "item": "B0045EOWQK",
+    "true_rating": 1.0
+  },
+  {
+    "user": "AGVWTYW0ULXHT",
+    "item": "B005G81EAQ",
+    "true_rating": 1.0
+  },
+  {
+    "user": "AGVWTYW0ULXHT",
+    "item": "B000EVSLRO",
+    "true_rating": 1.0
+  },
+  {
+    "user": "ABMN74TBW5UWE",
+    "item": "B00D4ABOZS",
+    "true_rating": 1.0
+  },
+  {
+    "user": "ABMN74TBW5UWE",
+    "item": "B011TVF5QC",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1T2LIENK0VZ7M",
+    "item": "B006MRAVFE",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A1VUIDYSKILDHT",
+    "item": "B018Y2LDGK",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A1VUIDYSKILDHT",
+    "item": "B004A98YTG",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A3OHV1J3JGC56O",
+    "item": "B001KNAWZ4",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A3OHV1J3JGC56O",
+    "item": "B001KN74RI",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A3OHV1J3JGC56O",
+    "item": "B007CO5DZ4",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A2GN3OVKZ79EKW",
+    "item": "B000EZWN88",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A2GN3OVKZ79EKW",
+    "item": "B00B86IKXO",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A19QE1WJ6112EF",
+    "item": "B001SER488",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A19QE1WJ6112EF",
+    "item": "B0001XFLTQ",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A9LJG3K5TEVPB",
+    "item": "B000P0O12I",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A9LJG3K5TEVPB",
+    "item": "B00005LENO",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A2OR4QUQSUMOW7",
+    "item": "B006OZEIKS",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A2OR4QUQSUMOW7",
+    "item": "B0028Y4F4S",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A1WAR3UAXRXXY",
+    "item": "B00AWKC0JM",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A1WAR3UAXRXXY",
+    "item": "B0058UUR6E",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A1WAR3UAXRXXY",
+    "item": "B000FNFSPY",
+    "true_rating": 0.5
+  },
+  {
+    "user": "ARXU3FESTWMJJ",
+    "item": "B00006B81E",
+    "true_rating": 2.0
+  },
+  {
+    "user": "ARXU3FESTWMJJ",
+    "item": "B0076POAOE",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A2Q84R6NGACYEN",
+    "item": "B01CZTLHGE",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A2Q84R6NGACYEN",
+    "item": "B010MS67ZG",
+    "true_rating": 1.0
+  },
+  {
+    "user": "AZLVQFZKDO02H",
+    "item": "B000FNFSPY",
+    "true_rating": 1.0
+  },
+  {
+    "user": "AZLVQFZKDO02H",
+    "item": "B00005ML7Q",
+    "true_rating": 1.0
+  },
+  {
+    "user": "ACG6SS17WL5DN",
+    "item": "B00LIX177I",
+    "true_rating": 0.5
+  },
+  {
+    "user": "ACG6SS17WL5DN",
+    "item": "B00608WXGA",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A1VKBDONSZHDKK",
+    "item": "B00T9QONOU",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A1VKBDONSZHDKK",
+    "item": "B00IGIEAAO",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1VKBDONSZHDKK",
+    "item": "B00L1LXOWS",
+    "true_rating": 0.5
+  },
+  {
+    "user": "AXO4PQU0XG3TG",
+    "item": "B00GHGMCN4",
+    "true_rating": 1.0
+  },
+  {
+    "user": "AXO4PQU0XG3TG",
+    "item": "B00NF2J6ZK",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1PNEO6MAXDZSL",
+    "item": "B00GKKI4IE",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A3M7BCQKSQAK4L",
+    "item": "B005EIGUD4",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A3M7BCQKSQAK4L",
+    "item": "B00KD5SER8",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A2OQ74R4XO7RPG",
+    "item": "B0021AG0QK",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A2OQ74R4XO7RPG",
+    "item": "B001T9CTRS",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A1889S56VFLVMZ",
+    "item": "B00MJEYM5O",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1889S56VFLVMZ",
+    "item": "B00NO73IN2",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A31J6NEZGC6GJ2",
+    "item": "B0099XGZXA",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A31J6NEZGC6GJ2",
+    "item": "B009A17FOO",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1ZC2KJG976YU3",
+    "item": "B00IL7B2YM",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A1ZC2KJG976YU3",
+    "item": "B000JE7GPY",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A38NHXL5257E3B",
+    "item": "B00XTH0WL8",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A38NHXL5257E3B",
+    "item": "B01F9RGWF0",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A118A49ORGNEUM",
+    "item": "B003Y3BJ7S",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A118A49ORGNEUM",
+    "item": "B002BZL42K",
+    "true_rating": 0.5
+  },
+  {
+    "user": "AO8RJE8TIFJZA",
+    "item": "B001FA1O1S",
+    "true_rating": 2.0
+  },
+  {
+    "user": "AO8RJE8TIFJZA",
+    "item": "B006GWO5WK",
+    "true_rating": 1.0
+  },
+  {
+    "user": "AQ9O2ACE8C9WS",
+    "item": "B01A89OEUY",
+    "true_rating": 1.0
+  },
+  {
+    "user": "AQ9O2ACE8C9WS",
+    "item": "B004VC8M3K",
+    "true_rating": 1.0
+  },
+  {
+    "user": "AQ9O2ACE8C9WS",
+    "item": "B00HUB0ONK",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A3HI52ACFEQ6SF",
+    "item": "B007B6YPN4",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A3HI52ACFEQ6SF",
+    "item": "B00KOUIBRU",
+    "true_rating": 2.0
+  },
+  {
+    "user": "ANW6EGY12V5XS",
+    "item": "B005N8W1H4",
+    "true_rating": 0.5
+  },
+  {
+    "user": "ANW6EGY12V5XS",
+    "item": "B00EIQTOFY",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A1U14MNTD5VRUX",
+    "item": "B001QUA6R0",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1U14MNTD5VRUX",
+    "item": "B00BNI4AWM",
+    "true_rating": 1.0
+  },
+  {
+    "user": "ADLVFFE4VBT8",
+    "item": "B005HNHRA6",
+    "true_rating": 1.0
+  },
+  {
+    "user": "ADLVFFE4VBT8",
+    "item": "B002FU5QMK",
+    "true_rating": 1.0
+  },
+  {
+    "user": "ADLVFFE4VBT8",
+    "item": "B0038KTBRW",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A32O5FZH994CNY",
+    "item": "B00D6XTMFC",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A32O5FZH994CNY",
+    "item": "B00JEMMD9Q",
+    "true_rating": 1.0
+  },
+  {
+    "user": "AVFB9B931P1CJ",
+    "item": "B0025F4AWW",
+    "true_rating": 1.0
+  },
+  {
+    "user": "AVFB9B931P1CJ",
+    "item": "B001TH7GVO",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A2P9DB888ORN66",
+    "item": "B00AO7DC9K",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A2P9DB888ORN66",
+    "item": "B00DNJZ58M",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1VNUU48CSSRSY",
+    "item": "B00U5QYVHC",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A1VNUU48CSSRSY",
+    "item": "B00GSFIJS6",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A1VNUU48CSSRSY",
+    "item": "B007XP4A92",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A2W3KJFYFHN1FA",
+    "item": "B00QC1207M",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A2W3KJFYFHN1FA",
+    "item": "B00IVPU7AO",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A1TS45JWJVOSSW",
+    "item": "B006MBP7T0",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1TS45JWJVOSSW",
+    "item": "B00ATM1NBO",
+    "true_rating": 1.0
+  },
+  {
+    "user": "AYQ14XGJODM9J",
+    "item": "B00NH13W2W",
+    "true_rating": 2.0
+  },
+  {
+    "user": "AYQ14XGJODM9J",
+    "item": "B00N38TQJC",
+    "true_rating": 1.0
+  },
+  {
+    "user": "AOKQW4B5OQUXF",
+    "item": "B01AVF6WN2",
+    "true_rating": 0.5
+  },
+  {
+    "user": "AOKQW4B5OQUXF",
+    "item": "B004M187ZI",
+    "true_rating": 0.5
+  },
+  {
+    "user": "AQ8OO59DJFJNZ",
+    "item": "B0042J5VQI",
+    "true_rating": 1.0
+  },
+  {
+    "user": "AQ8OO59DJFJNZ",
+    "item": "B004AH10K8",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A294868J1UQS5W",
+    "item": "B0007T27HI",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A294868J1UQS5W",
+    "item": "B00N38TQJC",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A9NOZ2HSXI4YJ",
+    "item": "B01DJL4DY0",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A9NOZ2HSXI4YJ",
+    "item": "B004TS1J1S",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A1Z215B0OZ3BLL",
+    "item": "B001EPVOQY",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A1Z215B0OZ3BLL",
+    "item": "B002DUEBIC",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A3RDSN4SZKF3O",
+    "item": "B013QJ0W8Q",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A3RDSN4SZKF3O",
+    "item": "B01CRA4L9G",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A19FQ6GMVBZEO1",
+    "item": "B00FG7MZP0",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A19FQ6GMVBZEO1",
+    "item": "B00IBCRZ3Y",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A1CKZC8RUBGK27",
+    "item": "B00004Z5CP",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1CKZC8RUBGK27",
+    "item": "B00B7GV802",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A3VXU2U79BRC9A",
+    "item": "B001UI4RTG",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A3VXU2U79BRC9A",
+    "item": "B002WCEWU8",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A2MUZBZ56ZM8IZ",
+    "item": "B004EBX5GW",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A2MUZBZ56ZM8IZ",
+    "item": "B00Y09IWGQ",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A3TR4J71PYZVU9",
+    "item": "B018MU3SAS",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1T1YSCDW0PD25",
+    "item": "B016P9HJIA",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A1T1YSCDW0PD25",
+    "item": "B00224ZDFY",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1T1YSCDW0PD25",
+    "item": "B000RZDBM2",
+    "true_rating": 1.0
+  },
+  {
+    "user": "AAMZ09K0S95S7",
+    "item": "B00EUY59Z8",
+    "true_rating": 0.5
+  },
+  {
+    "user": "AAMZ09K0S95S7",
+    "item": "B00J4E8KI2",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A1F0KPA232MTYC",
+    "item": "B004XANKVO",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1F0KPA232MTYC",
+    "item": "B002TLTGM6",
+    "true_rating": 0.5
+  },
+  {
+    "user": "AS035WUAUHUOF",
+    "item": "B0055XCLK4",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A3M2TMPK88UCSR",
+    "item": "B000FG6CME",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A3M2TMPK88UCSR",
+    "item": "B007RZB3KM",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A3CW0ZLUO5X2B1",
+    "item": "B003ZX8B3W",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A3CW0ZLUO5X2B1",
+    "item": "B00N41UTWG",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A3CW0ZLUO5X2B1",
+    "item": "B000KO0GY6",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1H8E260DX34WY",
+    "item": "B0002BEQNE",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A1H8E260DX34WY",
+    "item": "B0037FQVX0",
+    "true_rating": 0.5
+  },
+  {
+    "user": "AE2IDRV1J9E5I",
+    "item": "B007NJ3WI8",
+    "true_rating": 2.0
+  },
+  {
+    "user": "AE2IDRV1J9E5I",
+    "item": "B00EZMZTBO",
+    "true_rating": 2.0
+  },
+  {
+    "user": "AE2IDRV1J9E5I",
+    "item": "B001QNBUA4",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A2A56B1KS23X0Q",
+    "item": "B00B981F38",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A2A56B1KS23X0Q",
+    "item": "B00MQ97QGE",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A2AY4YUOX2N1BQ",
+    "item": "B00009R90P",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A2AY4YUOX2N1BQ",
+    "item": "B004HJDUW0",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A1SP0OX5KLGJQT",
+    "item": "B000NHZSHK",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1SP0OX5KLGJQT",
+    "item": "B0011NVMO8",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A2ZTCOTFKALJFW",
+    "item": "B004ZGN6MY",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A2ZTCOTFKALJFW",
+    "item": "B00FZVQPBC",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A2ZTCOTFKALJFW",
+    "item": "B00449BNDG",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A3998OSO98YJ35",
+    "item": "B00G9WHMCW",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A3998OSO98YJ35",
+    "item": "B00UZY2YQE",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A3LGV5JXFSBFTL",
+    "item": "B00AWKC0JM",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A3LGV5JXFSBFTL",
+    "item": "B01621M1S4",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A3AYSYSLHU26U9",
+    "item": "B00EVQ9MAS",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A3AYSYSLHU26U9",
+    "item": "B0085Y9CIY",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A23GFTVIETX7DS",
+    "item": "B00FDQQF82",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A23GFTVIETX7DS",
+    "item": "B00ITYXRU4",
+    "true_rating": 1.0
+  },
+  {
+    "user": "AR74YY08IP2WE",
+    "item": "B005OOKNP4",
+    "true_rating": 1.0
+  },
+  {
+    "user": "AR74YY08IP2WE",
+    "item": "B00006HRKE",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1HKTU4KMY93Y2",
+    "item": "B00EZ9XHVG",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A1HKTU4KMY93Y2",
+    "item": "B002HWRJBM",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A15QYHQH80W30L",
+    "item": "B009SYZ8OC",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A15QYHQH80W30L",
+    "item": "B00NF2J6ZK",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A9F10PFDPUMYY",
+    "item": "B00MLXA1J4",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A9F10PFDPUMYY",
+    "item": "B00WUI0SW0",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A25UFC1SEOCC9W",
+    "item": "B0028N6YH0",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A25UFC1SEOCC9W",
+    "item": "B000ETXOC8",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A37U4HM0UG7FQ0",
+    "item": "B006LW0WDQ",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A37U4HM0UG7FQ0",
+    "item": "B00X6AGWRQ",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A3JU990UTN5RQP",
+    "item": "B0054JE706",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A3JU990UTN5RQP",
+    "item": "B005EORRBW",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A26QT2FKJAZ9QZ",
+    "item": "B004FLJVXM",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A26QT2FKJAZ9QZ",
+    "item": "B00FF0MJXG",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A26QT2FKJAZ9QZ",
+    "item": "B00V0923TG",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A2WB4OWBUH2VQX",
+    "item": "B005QCDY50",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A2WB4OWBUH2VQX",
+    "item": "B006BUN6ZE",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A17Y465UXZOJE3",
+    "item": "B00CYX26BC",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A17Y465UXZOJE3",
+    "item": "B00HE9G3UQ",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A2V7EO331SFUF6",
+    "item": "B004L9MBH6",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A2V7EO331SFUF6",
+    "item": "B005H3I38Q",
+    "true_rating": 2.0
+  },
+  {
+    "user": "AN3MA6K3Y1F5X",
+    "item": "B00AWKBZ2A",
+    "true_rating": 1.0
+  },
+  {
+    "user": "AN3MA6K3Y1F5X",
+    "item": "B008YD80KC",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A3KPVS8PA2MR3N",
+    "item": "B0043BF3AE",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A3KPVS8PA2MR3N",
+    "item": "B007KZQMO6",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A1T2B5PFIP9TY1",
+    "item": "B00ZGGG3KY",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A1T2B5PFIP9TY1",
+    "item": "B00AZCGF7K",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A35JWG51KXPRJZ",
+    "item": "B0009Y7AW8",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A35JWG51KXPRJZ",
+    "item": "B001BPE3KQ",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A1NXZ1V7PJV74O",
+    "item": "B00D780NNQ",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A1NXZ1V7PJV74O",
+    "item": "B00RBGYPNE",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A3J9H77W4U792L",
+    "item": "B004YDUZ22",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A3J9H77W4U792L",
+    "item": "B0057OCDQS",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1DBA4P6UWKT4D",
+    "item": "B004C9QSU6",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1DBA4P6UWKT4D",
+    "item": "B002QEBMCI",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A1VGXHHR08G044",
+    "item": "B000NVR9SM",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A1VGXHHR08G044",
+    "item": "B008ABOJKS",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A2XMUCJWMWFTDH",
+    "item": "B00F6S10KK",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A2XMUCJWMWFTDH",
+    "item": "B0040IUI46",
+    "true_rating": 0.5
+  },
+  {
+    "user": "AW12F6FJ99WCV",
+    "item": "B00APQA572",
+    "true_rating": 2.0
+  },
+  {
+    "user": "AW12F6FJ99WCV",
+    "item": "B00E5OUOCQ",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A3GFPC4MTFIQK1",
+    "item": "B0085JBI6S",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A3GFPC4MTFIQK1",
+    "item": "B009F1HUMQ",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A3FGTMTVOYENT1",
+    "item": "B00CSSOUTO",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A3FGTMTVOYENT1",
+    "item": "B005FO43OU",
+    "true_rating": 1.0
+  },
+  {
+    "user": "AMJ6Y504Z6C58",
+    "item": "B01AI2YGK4",
+    "true_rating": 0.5
+  },
+  {
+    "user": "AMJ6Y504Z6C58",
+    "item": "B013DYXG4Q",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A18FLOC8YQY0P8",
+    "item": "B000067O6L",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A18FLOC8YQY0P8",
+    "item": "B00FG7N7RA",
+    "true_rating": 0.5
+  },
+  {
+    "user": "AJ757PG2TZA3H",
+    "item": "B00006I53B",
+    "true_rating": 1.0
+  },
+  {
+    "user": "AJ757PG2TZA3H",
+    "item": "B00906D9YE",
+    "true_rating": 1.0
+  },
+  {
+    "user": "ATEH9HVQ92HWR",
+    "item": "B00387G6R8",
+    "true_rating": 2.0
+  },
+  {
+    "user": "ATEH9HVQ92HWR",
+    "item": "B00016W6NC",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A7SK91SE8UZE6",
+    "item": "B00007E7K9",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A7SK91SE8UZE6",
+    "item": "B005DPF08E",
+    "true_rating": 0.5
+  },
+  {
+    "user": "AUU2UUST81DTF",
+    "item": "B00C6CMZVC",
+    "true_rating": 2.0
+  },
+  {
+    "user": "AUU2UUST81DTF",
+    "item": "B00LEFYIEE",
+    "true_rating": 2.0
+  },
+  {
+    "user": "AUU2UUST81DTF",
+    "item": "B00M1VICHO",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1FHJDZ4OLYJYZ",
+    "item": "B001G5ZTLS",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A2I1KFM5JETZPX",
+    "item": "B005LDLP8W",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A2I1KFM5JETZPX",
+    "item": "B00CVD9M3A",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A39TF3CW0JEK3H",
+    "item": "B002EPF6YO",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A39TF3CW0JEK3H",
+    "item": "B001DDE4VY",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A39TF3CW0JEK3H",
+    "item": "B00D2CRXKI",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A1Z4ETGZZHVT6W",
+    "item": "B01CGXU0GM",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1Z4ETGZZHVT6W",
+    "item": "B002NEGTT2",
+    "true_rating": 0.5
+  },
+  {
+    "user": "AD1003X0CY3F3",
+    "item": "B003LZ5SM6",
+    "true_rating": 1.0
+  },
+  {
+    "user": "AD1003X0CY3F3",
+    "item": "B00PV6HR2C",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A2N8MJWR19U887",
+    "item": "B00LV8YZLK",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A2N8MJWR19U887",
+    "item": "B00FQML02E",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A15VBTNMNSLADZ",
+    "item": "B005HMKKH4",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A15VBTNMNSLADZ",
+    "item": "B006T9B6R2",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A2EOGNVR0WUNMD",
+    "item": "B009AYVNMQ",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A2EOGNVR0WUNMD",
+    "item": "B0053NBLFW",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A17EY74PC3DFH8",
+    "item": "B005WY3TMA",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A17EY74PC3DFH8",
+    "item": "B001TH7GUU",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A17EY74PC3DFH8",
+    "item": "B006EKIQYM",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A9160ZNKW176Q",
+    "item": "B00P9WK1BW",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A9160ZNKW176Q",
+    "item": "B0002ZLYYY",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A1POL0R3RNLZ53",
+    "item": "B001G46ZX0",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1POL0R3RNLZ53",
+    "item": "B001G41YD6",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1POL0R3RNLZ53",
+    "item": "B002W3IXZW",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A3VAGBLM8OQP8A",
+    "item": "B00HT9MA1W",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A3VAGBLM8OQP8A",
+    "item": "B01F57XUI6",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1GXYTQDJ0JNH",
+    "item": "B000FNFSPY",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A1GXYTQDJ0JNH",
+    "item": "B00BCV1CEY",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A2YWMLC8KXSL33",
+    "item": "B00YPH110W",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A2YWMLC8KXSL33",
+    "item": "B007DJTBVK",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A1PRS479STLISM",
+    "item": "B0096YOQQA",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A3LKBEUWRI7WCD",
+    "item": "B003LVZO8S",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A3LKBEUWRI7WCD",
+    "item": "B0002UPGOI",
+    "true_rating": 1.0
+  },
+  {
+    "user": "AETQIN7OH0RL9",
+    "item": "B00007E7JU",
+    "true_rating": 1.0
+  },
+  {
+    "user": "AETQIN7OH0RL9",
+    "item": "B003HC8VA4",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1WKEBVFM8VB5Y",
+    "item": "B00WAG0WIM",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A1WKEBVFM8VB5Y",
+    "item": "B00JWJIEV2",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A3KKMR2NISUND4",
+    "item": "B003A6NU3U",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A3KKMR2NISUND4",
+    "item": "B000GIT002",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A3FOEXE8AL3K1D",
+    "item": "B01DEMTOQ6",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A3FOEXE8AL3K1D",
+    "item": "B013WODZH0",
+    "true_rating": 1.0
+  },
+  {
+    "user": "AIJQU979J6UFY",
+    "item": "B00HR7FWUC",
+    "true_rating": 1.0
+  },
+  {
+    "user": "AIJQU979J6UFY",
+    "item": "B00IOOB1RU",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A3INKBDWXCL8LP",
+    "item": "B002UT42UI",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A3INKBDWXCL8LP",
+    "item": "B00395WIXA",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A22DB8ICVH0PTE",
+    "item": "B00CD8AFFW",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A22DB8ICVH0PTE",
+    "item": "B00UY9F8HW",
+    "true_rating": 1.0
+  },
+  {
+    "user": "AKAMPNA389X6O",
+    "item": "B005OYR9D8",
+    "true_rating": 2.0
+  },
+  {
+    "user": "AKAMPNA389X6O",
+    "item": "B0043T7FXE",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A2EIUOVSKEOSQ1",
+    "item": "B00GHY5JAO",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A2EIUOVSKEOSQ1",
+    "item": "B00NO73IN2",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A9HEM904OZ9YU",
+    "item": "B00AWX6EYQ",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A9HEM904OZ9YU",
+    "item": "B00AWRUIY4",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A3VHGUZCGYA4KK",
+    "item": "B006W8U2MU",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A3VHGUZCGYA4KK",
+    "item": "B001R0EVMA",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A3QJU4FEN8PQSZ",
+    "item": "B0012OP7HE",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A3QJU4FEN8PQSZ",
+    "item": "B004LNFJCQ",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A4HT7FH6PGPV6",
+    "item": "B0074FGNJ6",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A4HT7FH6PGPV6",
+    "item": "B01915JBN6",
+    "true_rating": 0.5
+  },
+  {
+    "user": "AL2J625PUH5VW",
+    "item": "B00UJ3IULO",
+    "true_rating": 0.5
+  },
+  {
+    "user": "AL2J625PUH5VW",
+    "item": "B00SLVB71Q",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A3P1508PZ0UADD",
+    "item": "B0002Y5WZC",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A3P1508PZ0UADD",
+    "item": "B00AU0HMGA",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A3ANW5BON731U3",
+    "item": "B0009RKLMG",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A22BK0Z359GO4E",
+    "item": "B00INO6JX2",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A22BK0Z359GO4E",
+    "item": "B00XIR29Q0",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A1RL1OTV8IJMVD",
+    "item": "B00746Z6RK",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1RL1OTV8IJMVD",
+    "item": "B00HZVG02E",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1RL1OTV8IJMVD",
+    "item": "B00005RFD3",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A3R1WFO4KIUQXZ",
+    "item": "B01GF5M42A",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A3R1WFO4KIUQXZ",
+    "item": "B00009R9BF",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A27V8MRR3JGVE0",
+    "item": "B01597EOVY",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A27V8MRR3JGVE0",
+    "item": "B00W6UR5LO",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A316RN8NDLQ2UZ",
+    "item": "B00S9Q9VS4",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A316RN8NDLQ2UZ",
+    "item": "B00GNSJU90",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A1BQ0GQO5VTP3D",
+    "item": "B000OFWJO6",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1BQ0GQO5VTP3D",
+    "item": "B00004ZCJJ",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1P0KMRBCKB133",
+    "item": "B004VC8M3K",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A1P0KMRBCKB133",
+    "item": "B017AW0GR2",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A1P0KMRBCKB133",
+    "item": "B000MUXJCO",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A2DBR37CZ3NSE8",
+    "item": "B00UMVFJW6",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A2DBR37CZ3NSE8",
+    "item": "B00JI0SXS4",
+    "true_rating": 2.0
+  },
+  {
+    "user": "ARZ855YP1X03V",
+    "item": "B0037FQVX0",
+    "true_rating": 2.0
+  },
+  {
+    "user": "ARZ855YP1X03V",
+    "item": "B000IJY8DS",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A1P8YAWYRM3S7O",
+    "item": "B002UT42UI",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A1P8YAWYRM3S7O",
+    "item": "B00C7AQXQQ",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A8DUKFVG79KC2",
+    "item": "B00GHY5JAO",
+    "true_rating": 0.5
+  },
+  {
+    "user": "ALWTMPGC77CWM",
+    "item": "B00XIR29Q0",
+    "true_rating": 2.0
+  },
+  {
+    "user": "ALWTMPGC77CWM",
+    "item": "B00B7JLZSE",
+    "true_rating": 2.0
+  },
+  {
+    "user": "AG2HIXA3FF28S",
+    "item": "B00OJ5WBUE",
+    "true_rating": 2.0
+  },
+  {
+    "user": "AG2HIXA3FF28S",
+    "item": "B00E1GGE40",
+    "true_rating": 2.0
+  },
+  {
+    "user": "AG2HIXA3FF28S",
+    "item": "B006VAD2C6",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A3RS0YM8EW9HHU",
+    "item": "B00OP2P75W",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A3RS0YM8EW9HHU",
+    "item": "B007NZWF58",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A2LRK4OAPPZZWP",
+    "item": "B007B6YPN4",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A2LRK4OAPPZZWP",
+    "item": "B00E65TNYE",
+    "true_rating": 1.0
+  },
+  {
+    "user": "ARYNSVFEHHOE1",
+    "item": "B00IB17BGG",
+    "true_rating": 2.0
+  },
+  {
+    "user": "ARYNSVFEHHOE1",
+    "item": "B000HKGK8Y",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A2223MRNW4BSEN",
+    "item": "B000EUFJXE",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A2223MRNW4BSEN",
+    "item": "B000I23TTE",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A1F8WD5MHP9P9G",
+    "item": "B00E0ISM6M",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A2QRXQPHDMFCQV",
+    "item": "B01F6U86FY",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A2QRXQPHDMFCQV",
+    "item": "B00FONJDZ6",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A19SKDQ82W6XAJ",
+    "item": "B00DIF2BO2",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A19SKDQ82W6XAJ",
+    "item": "B00J21DFGE",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A36497S5E2I2MW",
+    "item": "B01E3SNO3E",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A36497S5E2I2MW",
+    "item": "B0083YIGVU",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A2R1LE5SFJ1GXP",
+    "item": "B005ARQV6U",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A2R1LE5SFJ1GXP",
+    "item": "B00DHBW6P6",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A4ZGPH50QWA1F",
+    "item": "B00LFA16ES",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A3HXGSMCIOZEW8",
+    "item": "B00066HP7Y",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A3HXGSMCIOZEW8",
+    "item": "B00T19DT5Y",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A3I9Q7TS5FQY0W",
+    "item": "B007YX9O94",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A7VZVD0Y5X4I4",
+    "item": "B00HSS9KJY",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A7VZVD0Y5X4I4",
+    "item": "B000HGMMH6",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A1PV5T5S4D5NPI",
+    "item": "B0037H8AB4",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A1PV5T5S4D5NPI",
+    "item": "B00J8E8XT4",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A1RU245CSNO70T",
+    "item": "B015KTJ5KG",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A1RU245CSNO70T",
+    "item": "B00BCY1AA2",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A3UR2N0ATGBCU8",
+    "item": "B006QB1RPY",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A3UR2N0ATGBCU8",
+    "item": "B019954Y2Q",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A1R8R7XKJJ3Q3T",
+    "item": "B0002RVRWG",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1R8R7XKJJ3Q3T",
+    "item": "B01A89OEUY",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A24Z0GIS5OEV17",
+    "item": "B00N9HRTFU",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A24Z0GIS5OEV17",
+    "item": "B001V59KR2",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A24Z0GIS5OEV17",
+    "item": "B003Z6ZR5O",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A23Y31KV0RBKKN",
+    "item": "B00AKDW7B2",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A23Y31KV0RBKKN",
+    "item": "B0077CR5RK",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1XP5GMAIXJ10A",
+    "item": "B00B46XUQU",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1XP5GMAIXJ10A",
+    "item": "B005HMKKH4",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1XP5GMAIXJ10A",
+    "item": "B000BVXVTA",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A20XJHDDX975MK",
+    "item": "B01018CW92",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A20XJHDDX975MK",
+    "item": "B00XSNT60Q",
+    "true_rating": 0.5
+  },
+  {
+    "user": "AZ4EUUJVC8358",
+    "item": "B00B46XJPW",
+    "true_rating": 1.0
+  },
+  {
+    "user": "AZ4EUUJVC8358",
+    "item": "B007ILFFS6",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A10ME5FU9KHPPY",
+    "item": "B00R45XCMM",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A10ME5FU9KHPPY",
+    "item": "B0019HL8Q8",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A3T7V207KRDE2O",
+    "item": "B00DSUTX3O",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A3T7V207KRDE2O",
+    "item": "B00007IFED",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A3PIPGBIHXM2GE",
+    "item": "B01CL3ZXGO",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A3PIPGBIHXM2GE",
+    "item": "B00A49ZOK8",
+    "true_rating": 0.5
+  },
+  {
+    "user": "AQR4HPVSOPS08",
+    "item": "B000RSOV50",
+    "true_rating": 2.0
+  },
+  {
+    "user": "AQR4HPVSOPS08",
+    "item": "B001QNBUA4",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A2D1LPEUCTNT8X",
+    "item": "B00005A1K1",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A3B0HUYVGFCV46",
+    "item": "B00FL4EWEK",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A3B0HUYVGFCV46",
+    "item": "B00B7FOQCK",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A1OOLS3367Y7M4",
+    "item": "B00BFO14W8",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1OOLS3367Y7M4",
+    "item": "B00GHY5JAO",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A3UBJJ2IV0NAVE",
+    "item": "B00APCMMEK",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A3UBJJ2IV0NAVE",
+    "item": "B003L1ZYYW",
+    "true_rating": 0.5
+  },
+  {
+    "user": "AYL3CH1Y1DOB8",
+    "item": "B01ESSDBL4",
+    "true_rating": 2.0
+  },
+  {
+    "user": "AYL3CH1Y1DOB8",
+    "item": "B008LTBINU",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A3EGCSUMHE6U0A",
+    "item": "B00CQ35GYE",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A2D3TJ3I4H878I",
+    "item": "B009CMN3W4",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A2D3TJ3I4H878I",
+    "item": "B00M8ABHVQ",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1LZQPBALDJ0Y5",
+    "item": "B00N1BRWLA",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A1LZQPBALDJ0Y5",
+    "item": "B005BZNEKM",
+    "true_rating": 0.5
+  },
+  {
+    "user": "AB3Y9FA5ALTK2",
+    "item": "B000FNFSPY",
+    "true_rating": 2.0
+  },
+  {
+    "user": "AN6PWAVKI6SEA",
+    "item": "B001ELJ9QK",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A19PXUQ68MWS3M",
+    "item": "B003L1ZYYW",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A19PXUQ68MWS3M",
+    "item": "B002QAUN2M",
+    "true_rating": 0.5
+  },
+  {
+    "user": "AL74YXJYXCM8A",
+    "item": "B0093HMLAS",
+    "true_rating": 1.0
+  },
+  {
+    "user": "AL74YXJYXCM8A",
+    "item": "B004ASY5ZY",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A1BMG3RJKHU8E0",
+    "item": "B018Y2LDGK",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A1BMG3RJKHU8E0",
+    "item": "B00ODEGWN8",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A3FH2LTPJU3NXR",
+    "item": "B004QIPH5U",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A3FH2LTPJU3NXR",
+    "item": "B00OBRE5UE",
+    "true_rating": 0.5
+  },
+  {
+    "user": "AP1PAUV5LLJ0L",
+    "item": "B00507GV38",
+    "true_rating": 0.5
+  },
+  {
+    "user": "AP1PAUV5LLJ0L",
+    "item": "B007WTAJTO",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A1YM6BWSN7O317",
+    "item": "B000P1O73A",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A1YM6BWSN7O317",
+    "item": "B0057UAB2K",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A1VQV94SL7Y1S0",
+    "item": "B004SY9OVA",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A1VQV94SL7Y1S0",
+    "item": "B00ZGUZJ32",
+    "true_rating": 2.0
+  },
+  {
+    "user": "AUJ30XVSW4XS7",
+    "item": "B00PYZ2BT4",
+    "true_rating": 1.0
+  },
+  {
+    "user": "AUJ30XVSW4XS7",
+    "item": "B00HM9NVOE",
+    "true_rating": 1.0
+  },
+  {
+    "user": "AG2CSACQ7SXRK",
+    "item": "B001G402N4",
+    "true_rating": 1.0
+  },
+  {
+    "user": "AG2CSACQ7SXRK",
+    "item": "B005K8AUE8",
+    "true_rating": 0.5
+  },
+  {
+    "user": "ABDR6IJ93HFIO",
+    "item": "B00D02AHEO",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A18HE80910BTZI",
+    "item": "B0096239G0",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A18HE80910BTZI",
+    "item": "B004YI9NTS",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A2TDKSW51T2BEH",
+    "item": "B00JRWGPEW",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A2TDKSW51T2BEH",
+    "item": "B00K04C216",
+    "true_rating": 1.0
+  },
+  {
+    "user": "ALFI8R2F4XLDK",
+    "item": "B003WGJYCY",
+    "true_rating": 1.0
+  },
+  {
+    "user": "ALFI8R2F4XLDK",
+    "item": "B007Q45EF4",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A1LYMYNURB9EWW",
+    "item": "B002FU5QMK",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1LYMYNURB9EWW",
+    "item": "B00KATWRIY",
+    "true_rating": 0.5
+  },
+  {
+    "user": "AZ7BO8QW86I10",
+    "item": "B005P2BY5I",
+    "true_rating": 0.5
+  },
+  {
+    "user": "AZ7BO8QW86I10",
+    "item": "B001UEBN42",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A2UK5HQS62ESQP",
+    "item": "B000F7JCRA",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A2UK5HQS62ESQP",
+    "item": "B0000AI0N2",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A2UOHALGF2X77Q",
+    "item": "B002C1BBU8",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A2UOHALGF2X77Q",
+    "item": "B0007M6GI6",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1GNYV0RA0EQSS",
+    "item": "B00AQDGAKK",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1GNYV0RA0EQSS",
+    "item": "B00IL7FM3Y",
+    "true_rating": 0.5
+  },
+  {
+    "user": "AY4WE4ONB6HPR",
+    "item": "B000EVSLRO",
+    "true_rating": 1.0
+  },
+  {
+    "user": "AY4WE4ONB6HPR",
+    "item": "B00W4ZLZP8",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A1EKSETIBS9ETQ",
+    "item": "B016QCPNUW",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1EKSETIBS9ETQ",
+    "item": "B006JH8T3S",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A2IQPYLBDJLDY2",
+    "item": "B00IYJCING",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A1IXJK1NYTSMJU",
+    "item": "B00IX9ZDKC",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1IXJK1NYTSMJU",
+    "item": "B000ALLMI8",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A2WKGZ1MLWXTXY",
+    "item": "B001AQYJI2",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A2WKGZ1MLWXTXY",
+    "item": "B00005Y3OM",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A3NWTLNFXER2TC",
+    "item": "B00FK0ELRI",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A3NWTLNFXER2TC",
+    "item": "B0134V3KIA",
+    "true_rating": 0.5
+  },
+  {
+    "user": "AVP16JFIT6LPL",
+    "item": "B007FHX9OK",
+    "true_rating": 2.0
+  },
+  {
+    "user": "AVP16JFIT6LPL",
+    "item": "B000BSN4UY",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A18L7A43I409HU",
+    "item": "B01DZ56MX0",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A130CQASSZLPTG",
+    "item": "B0000AKA90",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A130CQASSZLPTG",
+    "item": "B003EOATIW",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A26EZECFKU7ZVI",
+    "item": "B00B981F1U",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A26EZECFKU7ZVI",
+    "item": "B00UOYPZP2",
+    "true_rating": 0.5
+  },
+  {
+    "user": "AGYH5U11ZKPFB",
+    "item": "B002BH3Z8E",
+    "true_rating": 1.0
+  },
+  {
+    "user": "AGYH5U11ZKPFB",
+    "item": "B000062VUQ",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A3NM1MT3Q2FHXV",
+    "item": "B00I83XD4Q",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A3NM1MT3Q2FHXV",
+    "item": "B000VI2HT8",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1FM3UVV9JX48S",
+    "item": "B015YF5YIS",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A1FM3UVV9JX48S",
+    "item": "B00X6AGWRQ",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A3OZA8HNJM26DC",
+    "item": "B00NZTKOQI",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A3OZA8HNJM26DC",
+    "item": "B00UBGU4PY",
+    "true_rating": 0.5
+  },
+  {
+    "user": "AY91MQZZR750W",
+    "item": "B000N8DJB6",
+    "true_rating": 1.0
+  },
+  {
+    "user": "AY91MQZZR750W",
+    "item": "B001FWYXDW",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A5TTSSE2MU5RS",
+    "item": "B008GWL19I",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A5TTSSE2MU5RS",
+    "item": "B00KVLT08G",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A3Q7HWIL61OWPZ",
+    "item": "B00009KLAE",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A3Q7HWIL61OWPZ",
+    "item": "B0062W02C6",
+    "true_rating": 0.5
+  },
+  {
+    "user": "AQ8PKO9JAMK69",
+    "item": "B00IL7FM3Y",
+    "true_rating": 0.5
+  },
+  {
+    "user": "AQ8PKO9JAMK69",
+    "item": "B00IVPU7DG",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A2X695AM08AIN1",
+    "item": "B00J8E8XT4",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A2X695AM08AIN1",
+    "item": "B001VEAI74",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A1YMNXDESPUFOY",
+    "item": "B004MME760",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A1YMNXDESPUFOY",
+    "item": "B004VC8M3K",
+    "true_rating": 1.0
+  },
+  {
+    "user": "A2LHANCVBGV36U",
+    "item": "B009CMN3V0",
+    "true_rating": 2.0
+  },
+  {
+    "user": "A2LHANCVBGV36U",
+    "item": "B000OTEZ5I",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A33HFLRTNK8C14",
+    "item": "B01G9MNH6Q",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A33HFLRTNK8C14",
+    "item": "B00FJRRVII",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A26TN5Q0U3SOV6",
+    "item": "B001AHALEC",
+    "true_rating": 0.5
+  },
+  {
+    "user": "A26TN5Q0U3SOV6",
+    "item": "B004VC8M3K",
+    "true_rating": 0.5
+  }
+]

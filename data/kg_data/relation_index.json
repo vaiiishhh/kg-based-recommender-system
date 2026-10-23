@@ -1,0 +1,17 @@
+{
+  "purchase": 0,
+  "rev_purchase": 1,
+  "mention": 2,
+  "rev_mention": 3,
+  "described_by": 4,
+  "rev_described": 5,
+  "produced_by": 6,
+  "rev_produced": 7,
+  "belong_to": 8,
+  "rev_belong": 9,
+  "also_bought": 10,
+  "rev_also_bought": 11,
+  "also_viewed": 12,
+  "rev_also_viewed": 13,
+  "self_loop": 14
+}
